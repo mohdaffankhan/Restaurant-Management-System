@@ -59,11 +59,11 @@ Run the command below to initialize the app:
 
 - When started Main Window will pop up. Through its filebar we can access all the necessary windows.
 
-   ![Main Window](./BASE/Assets/bast/main_w.png)
+   ![Main Window](./BASE/assets/bast/main_w.png)
 
 - Filebar let's us see the current state of the application. At first as there is no database file we can only open up the "Configure Facility/Menu" window to store configurations.
 
-   ![Filebar](./BASE/Assets/bast/main_w2.png)
+   ![Filebar](./BASE/assets/bast/main_w2.png)
 
 2. **Configuration Window**
 
